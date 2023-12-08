@@ -3,7 +3,7 @@
         'name' => 'deepu/guvi',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '9bfbc603419b0827419377714b5a12f170d16230',
+        'reference' => '0130aa4e5554ac221ab149d26226e65ead821af1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'deepu/guvi' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '9bfbc603419b0827419377714b5a12f170d16230',
+            'reference' => '0130aa4e5554ac221ab149d26226e65ead821af1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
