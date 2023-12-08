@@ -28,8 +28,11 @@ class ComposerStaticInite7f408318d022af9c0cd0c7270bb5781
         ),
         'J' => 
         array (
-            'Junnu\\Guvi\\' => 11,
             'Jean85\\' => 7,
+        ),
+        'D' => 
+        array (
+            'Deepu\\Guvi\\' => 11,
         ),
     );
 
@@ -54,13 +57,13 @@ class ComposerStaticInite7f408318d022af9c0cd0c7270bb5781
         array (
             0 => __DIR__ . '/..' . '/mongodb/mongodb/src',
         ),
-        'Junnu\\Guvi\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'Jean85\\' => 
         array (
             0 => __DIR__ . '/..' . '/jean85/pretty-package-versions/src',
+        ),
+        'Deepu\\Guvi\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

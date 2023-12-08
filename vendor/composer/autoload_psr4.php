@@ -11,6 +11,6 @@ return array(
     'Predis\\' => array($vendorDir . '/predis/predis/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'MongoDB\\' => array($vendorDir . '/mongodb/mongodb/src'),
-    'Junnu\\Guvi\\' => array($baseDir . '/src'),
     'Jean85\\' => array($vendorDir . '/jean85/pretty-package-versions/src'),
+    'Deepu\\Guvi\\' => array($baseDir . '/src'),
 );
