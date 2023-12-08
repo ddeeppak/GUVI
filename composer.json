@@ -1,5 +1,5 @@
 {
-    "name": "Deepu/guvi",
+    "name": "deepu/guvi",
     "autoload": {
         "psr-4": {
             "Deepu\\Guvi\\": "src/"
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "PrajapathiDeepak",
-            "email": "p2003deepak@gmail.com"
+            "name": "Deepak",
+            "email": "p2003deepakr@gmail.com"
         }
     ],
     "require": {
@@ -17,5 +17,4 @@
         "monolog/monolog": "^2.0",
         "predis/predis": "^1.1"
     }
-    
 }
