@@ -6,11 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
-    'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
     'Predis\\' => array($vendorDir . '/predis/predis/src'),
-    'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
-    'MongoDB\\' => array($vendorDir . '/mongodb/mongodb/src'),
-    'Jean85\\' => array($vendorDir . '/jean85/pretty-package-versions/src'),
-    'Deepu\\Guvi\\' => array($baseDir . '/src'),
+    'Deepak\\Guvi\\' => array($baseDir . '/src'),
 );
