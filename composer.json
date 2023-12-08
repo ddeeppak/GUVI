@@ -1,0 +1,21 @@
+{
+    "name": "junnu/guvi",
+    "autoload": {
+        "psr-4": {
+            "Junnu\\Guvi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rajeshreddy2606",
+            "email": "junnuthularr@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1",
+        "mongodb/mongodb": "^1.10",
+        "monolog/monolog": "^2.0",
+        "predis/predis": "^1.1"
+    }
+    
+}
