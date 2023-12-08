@@ -12,7 +12,5 @@
         }
     ],
     "require": {
-        "mongodb/mongodb": "^1.10",
-        "predis/predis": "^1.1"
     }
 }
