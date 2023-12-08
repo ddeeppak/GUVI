@@ -1,14 +1,14 @@
 {
-    "name": "junnu/guvi",
+    "name": "Deepu/guvi",
     "autoload": {
         "psr-4": {
-            "Junnu\\Guvi\\": "src/"
+            "Deepu\\Guvi\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Rajeshreddy2606",
-            "email": "junnuthularr@gmail.com"
+            "name": "PrajapathiDeepak",
+            "email": "p2003deepak@gmail.com"
         }
     ],
     "require": {
