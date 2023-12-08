@@ -3,7 +3,7 @@
         'name' => 'deepak/guvi',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '7123522c2697e0960680bbfe2dc19a20f94f36f3',
+        'reference' => 'ede68107d28dbbcee71252a5f70c417668092535',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'deepak/guvi' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '7123522c2697e0960680bbfe2dc19a20f94f36f3',
+            'reference' => 'ede68107d28dbbcee71252a5f70c417668092535',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
